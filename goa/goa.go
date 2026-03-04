@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/getsentry/sentry-go"
-	mdlwrsentry "github.com/gregwebs/go-sentry-middleware"
+	mdlwrsentry "github.com/smithcoin/go-sentry-middleware"
 )
 
 type Sentry500Options struct {

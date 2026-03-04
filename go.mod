@@ -1,4 +1,4 @@
-module github.com/gregwebs/go-sentry-middleware
+module github.com/smithcoin/go-sentry-middleware
 
 go 1.24.11
 
