@@ -4,8 +4,8 @@ import (
 	"context"
 	"net/http"
 
-	mdlwrsentry "github.com/digitalmint/go-sentry-middleware"
 	"github.com/getsentry/sentry-go"
+	mdlwrsentry "github.com/gregwebs/go-sentry-middleware"
 )
 
 type Sentry500Options struct {
